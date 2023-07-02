@@ -10,7 +10,7 @@ driver.get('https://www.osmania.ac.in/res07/20230580.jsp')
 # Open the result file in append mode
 with open('result.txt', 'a') as file:
     # Iterate over roll numbers
-    for roll_number in range(160422734001, 160422734061):
+    for roll_number in range(160522747001, 160522747081):
         # Find the input field and enter the roll number
         input_field = driver.find_element(By.NAME, 'htno')
         input_field.clear()
@@ -42,7 +42,7 @@ driver.quit()
 import pandas as pd
 
 # Specify the number of lines to skip after each range of rows
-lines_to_skip = 2
+lines_to_skip = 1
 
 # Read the text file
 with open('result.txt', 'r') as file:
@@ -50,8 +50,8 @@ with open('result.txt', 'r') as file:
 
 # Initialize variables
 data = []
-start_line = 2
-end_line = 10
+start_line = 1
+end_line = 9
 
 # Process the text file data
 while start_line < len(lines):
@@ -85,8 +85,8 @@ roll_number = "Roll Numbers"  # Replace with the actual roll number
 sheet['A1'] = roll_number
 
 # Generate and write roll numbers in cells A1 to A60
-start_roll = 160422734001
-for i in range(60):
+start_roll = 160522747001
+for i in range(80):
     roll_number = str(start_roll + i)
     cell = sheet.cell(row=i+2, column=1)
     cell.value = roll_number
@@ -104,13 +104,13 @@ sheet = workbook['Sheet1']  # Replace 'Sheet1' with the actual sheet name
 
 # Write roll number in cell A1
 sheet['B1'] = 'M1'
-sheet['C1'] = 'EITK'
-sheet['D1'] = 'CHEM L'
-sheet['E1'] = 'CHEM'
-sheet['F1'] = 'EVS'
-sheet['G1'] = 'ENG'
-sheet['H1'] = 'ENG L'
-sheet['I1'] = 'WORK L'
+sheet['C1'] = 'PHY'
+sheet['D1'] = 'BEE'
+sheet['E1'] = 'PHY L'
+sheet['F1'] = 'ENG L'
+sheet['G1'] = 'IC'
+sheet['H1'] = 'EGDP'
+sheet['I1'] = 'ENG'
 sheet['J1'] = 'SUB FAILED'
 
 # Save the modified Excel file
@@ -125,7 +125,7 @@ workbook = openpyxl.load_workbook('output.xlsx')
 sheet = workbook['Sheet1']  # Replace 'Sheet1' with the actual sheet name
 
 # Iterate over the rows 2 to 61
-for row in range(2, 62):
+for row in range(2, 82):
     count = 0
 
     # Iterate over the columns B to I
@@ -151,13 +151,13 @@ sheet = workbook['Sheet1']  # Replace 'Sheet1' with the actual sheet name
 column_j_sum = 0
 
 # Iterate over the cells in column J from row 2 to row 61
-for row in range(2, 62):
+for row in range(2, 82):
     cell_value = sheet.cell(row=row, column=10).value
     if cell_value and isinstance(cell_value, int):
         column_j_sum += cell_value
 
 # Store the sum in cell J62
-sheet['J62'] = column_j_sum
+sheet['J82'] = column_j_sum
 
 # Save the modified Excel file
 workbook.save('output.xlsx')
@@ -175,13 +175,13 @@ for column in range(2, 10):
     count = 0
 
     # Iterate over the cells in the column from row 2 to row 61
-    for row in range(2, 62):
+    for row in range(2, 82):
         cell_value = sheet.cell(row=row, column=column).value
         if cell_value and isinstance(cell_value, str) and 'F' in cell_value:
             count += 1
 
     # Store the count in the 62nd cell of the respective column
-    sheet.cell(row=62, column=column).value = count
+    sheet.cell(row=82, column=column).value = count
 
 # Save the modified Excel file
 workbook.save('output.xlsx')
