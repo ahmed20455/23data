@@ -1,0 +1,1179 @@
+Hall Ticket No.  161022748001 Gender FEMALE
+D
+C
+C
+B
+C
+S
+S
+S
+Hall Ticket No.  161022748002 Gender FEMALE
+F
+F
+F
+C
+F
+C
+A
+A
+Hall Ticket No.  161022748003 Gender FEMALE
+C
+C
+B
+B
+B
+S
+S
+S
+Hall Ticket No.  161022748004 Gender FEMALE
+F
+F
+F
+C
+D
+A
+S
+S
+Hall Ticket No.  161022748005 Gender FEMALE
+F
+F
+D
+C
+F
+C
+A
+S
+Hall Ticket No.  161022748006 Gender FEMALE
+C
+C
+C
+B
+B
+S
+S
+S
+Hall Ticket No.  161022748007 Gender FEMALE
+C
+F
+D
+C
+B
+A
+S
+S
+Hall Ticket No.  161022748008 Gender FEMALE
+A
+B
+C
+B
+B
+S
+S
+S
+Hall Ticket No.  161022748009 Gender FEMALE
+D
+F
+C
+B
+C
+S
+A
+S
+Hall Ticket No.  161022748010 Gender FEMALE
+D
+C
+F
+B
+S
+S
+S
+A
+Hall Ticket No.  161022748011 Gender FEMALE
+D
+F
+F
+C
+A
+S
+B
+S
+Hall Ticket No.  161022748012 Gender FEMALE
+F
+F
+F
+C
+C
+C
+C
+A
+Hall Ticket No.  161022748013 Gender FEMALE
+F
+F
+C
+C
+S
+S
+A
+S
+Hall Ticket No.  161022748014 Gender FEMALE
+F
+F
+F
+C
+C
+A
+A
+S
+Hall Ticket No.  161022748015 Gender FEMALE
+F
+F
+F
+C
+B
+C
+A
+S
+Hall Ticket No.  161022748016 Gender MALE
+F
+F
+F
+D
+E
+D
+C
+B
+Hall Ticket No.  161022748017 Gender MALE
+F
+F
+F
+D
+B
+A
+S
+S
+Hall Ticket No.  161022748018 Gender MALE
+F
+F
+F
+F
+E
+C
+C
+B
+Hall Ticket No.  161022748019 Gender MALE
+F
+D
+D
+C
+B
+A
+A
+S
+Hall Ticket No.  161022748020 Gender MALE
+F
+F
+F
+F
+A
+A
+A
+S
+Hall Ticket No.  161022748021 Gender MALE
+F
+F
+F
+D
+B
+D
+C
+B
+Hall Ticket No.  161022748022 Gender MALE
+F
+D
+D
+C
+A
+D
+S
+A
+Hall Ticket No.  161022748023 Gender MALE
+F
+F
+F
+C
+D
+C
+B
+A
+Hall Ticket No.  161022748024 Gender MALE
+F
+F
+D
+D
+B
+A
+S
+A
+Hall Ticket No.  161022748025 Gender MALE
+F
+F
+F
+D
+A
+F
+A
+B
+Hall Ticket No.  161022748026 Gender MALE
+F
+F
+F
+D
+C
+C
+D
+A
+Hall Ticket No.  161022748027 Gender MALE
+F
+F
+F
+F
+C
+E
+D
+A
+Hall Ticket No.  161022748028 Gender MALE
+F
+b
+b
+D
+D
+b
+C
+A
+Hall Ticket No.  161022748029 Gender MALE
+F
+F
+D
+C
+B
+S
+S
+S
+Hall Ticket No.  161022748030 Gender MALE
+D
+F
+C
+C
+S
+C
+A
+S
+Hall Ticket No.  161022748031 Gender MALE
+F
+F
+F
+D
+E
+E
+C
+B
+Hall Ticket No.  161022748032 Gender MALE
+F
+F
+E
+C
+C
+A
+S
+A
+Hall Ticket No.  161022748033 Gender MALE
+F
+F
+F
+C
+B
+F
+A
+A
+Hall Ticket No.  161022748034 Gender MALE
+C
+D
+F
+D
+S
+A
+A
+A
+Hall Ticket No.  161022748035 Gender MALE
+F
+F
+F
+D
+C
+B
+A
+A
+Hall Ticket No.  161022748036 Gender MALE
+F
+F
+E
+D
+B
+D
+B
+A
+Hall Ticket No.  161022748037 Gender MALE
+E
+F
+F
+C
+F
+C
+B
+S
+Hall Ticket No.  161022748038 Gender MALE
+F
+F
+F
+D
+D
+D
+A
+A
+Hall Ticket No.  161022748039 Gender MALE
+F
+F
+F
+D
+E
+D
+A
+A
+Hall Ticket No.  161022748040 Gender MALE
+F
+F
+F
+C
+E
+F
+A
+S
+Hall Ticket No.  161022748041 Gender MALE
+F
+F
+F
+C
+C
+B
+S
+A
+Hall Ticket No.  161022748042 Gender MALE
+F
+F
+F
+D
+F
+F
+A
+A
+Hall Ticket No.  161022748043 Gender MALE
+F
+F
+F
+D
+C
+C
+A
+A
+Hall Ticket No.  161022748044 Gender MALE
+F
+F
+D
+C
+D
+B
+C
+A
+Hall Ticket No.  161022748045 Gender MALE
+F
+F
+D
+D
+A
+C
+A
+S
+Hall Ticket No.  161022748046 Gender MALE
+E
+F
+F
+D
+C
+B
+A
+A
+Hall Ticket No.  161022748047 Gender MALE
+F
+F
+F
+D
+D
+A
+A
+A
+Hall Ticket No.  161022748048 Gender MALE
+F
+F
+F
+D
+C
+D
+S
+A
+Hall Ticket No.  161022748049 Gender MALE
+F
+F
+F
+D
+D
+B
+D
+A
+Hall Ticket No.  161022748050 Gender MALE
+F
+F
+F
+D
+C
+B
+B
+A
+Hall Ticket No.  161022748051 Gender MALE
+D
+F
+D
+D
+A
+F
+S
+S
+Hall Ticket No.  161022748052 Gender MALE
+F
+F
+C
+C
+B
+D
+A
+S
+Hall Ticket No.  161022748053 Gender MALE
+D
+F
+F
+C
+A
+D
+A
+A
+Hall Ticket No.  161022748054 Gender MALE
+E
+F
+F
+D
+B
+D
+A
+A
+Hall Ticket No.  161022748055 Gender MALE
+C
+C
+C
+C
+B
+D
+S
+S
+Hall Ticket No.  161022748056 Gender MALE
+F
+D
+F
+D
+A
+D
+S
+A
+Hall Ticket No.  161022748057 Gender MALE
+F
+E
+F
+D
+D
+F
+B
+A
+Hall Ticket No.  161022748058 Gender MALE
+F
+F
+D
+D
+B
+D
+A
+A
+Hall Ticket No.  161022748059 Gender MALE
+F
+F
+F
+D
+C
+F
+D
+A
+Hall Ticket No.  161022748060 Gender MALE
+F
+F
+D
+C
+B
+D
+B
+A
+Hall Ticket No.  161022748061 Gender MALE
+F
+F
+F
+D
+A
+C
+C
+A
+Hall Ticket No.  161022748062 Gender MALE
+F
+F
+F
+D
+C
+F
+D
+A
+Hall Ticket No.  161022748063 Gender MALE
+F
+F
+F
+D
+B
+D
+A
+A
+Hall Ticket No.  161022748064 Gender MALE
+F
+D
+F
+D
+B
+D
+A
+A
+Hall Ticket No.  161022748065 Gender MALE
+F
+F
+D
+D
+B
+D
+B
+A
+Hall Ticket No.  161022748066 Gender MALE
+F
+F
+F
+D
+D
+E
+D
+B
+Hall Ticket No.  161022748067 Gender MALE
+F
+F
+F
+F
+A
+F
+A
+A
+Hall Ticket No.  161022748068 Gender MALE
+B
+F
+C
+C
+A
+D
+S
+S
+Hall Ticket No.  161022748069 Gender MALE
+F
+F
+F
+F
+D
+F
+D
+B
+Hall Ticket No.  161022748070 Gender MALE
+F
+F
+F
+D
+D
+F
+B
+B
+Hall Ticket No.  161022748071 Gender MALE
+F
+F
+F
+F
+F
+F
+C
+B
+Hall Ticket No.  161022748072 Gender MALE
+F
+F
+D
+D
+D
+F
+B
+A
+Hall Ticket No.  161022748073 Gender MALE
+F
+C
+C
+D
+A
+C
+B
+S
+Hall Ticket No.  161022748074 Gender MALE
+C
+F
+F
+D
+E
+D
+B
+A
+Hall Ticket No.  161022748075 Gender MALE
+F
+F
+F
+b
+E
+F
+D
+C
+Hall Ticket No.  161022748076 Gender MALE
+F
+F
+F
+D
+B
+C
+A
+S
+Hall Ticket No.  161022748077 Gender MALE
+F
+F
+E
+D
+C
+C
+A
+B
+Hall Ticket No.  161022748078 Gender MALE
+F
+D
+F
+C
+C
+D
+S
+S
+Hall Ticket No.  161022748079 Gender MALE
+E
+F
+F
+D
+B
+D
+S
+A
+Hall Ticket No.  161022748080 Gender MALE
+F
+F
+B
+D
+B
+D
+S
+S
+Hall Ticket No.  161022748081 Gender MALE
+F
+F
+F
+F
+E
+F
+D
+B
+Hall Ticket No.  161022748083 Gender MALE
+F
+D
+C
+D
+C
+C
+A
+S
+Hall Ticket No.  161022748084 Gender MALE
+F
+E
+D
+D
+F
+C
+S
+A
+Hall Ticket No.  161022748085 Gender MALE
+F
+F
+F
+F
+E
+D
+B
+A
+Hall Ticket No.  161022748086 Gender MALE
+F
+F
+F
+C
+C
+D
+C
+S
+Hall Ticket No.  161022748087 Gender MALE
+E
+E
+F
+D
+F
+C
+S
+A
+Hall Ticket No.  161022748088 Gender MALE
+F
+F
+D
+D
+C
+D
+A
+A
+Hall Ticket No.  161022748089 Gender MALE
+E
+F
+F
+D
+E
+D
+C
+A
+Hall Ticket No.  161022748090 Gender MALE
+F
+F
+F
+D
+E
+F
+b
+C
+Hall Ticket No.  161022748091 Gender MALE
+F
+F
+F
+D
+B
+D
+A
+S
+Hall Ticket No.  161022748092 Gender MALE
+F
+F
+F
+D
+D
+D
+A
+S
+Hall Ticket No.  161022748093 Gender MALE
+F
+F
+F
+D
+B
+D
+A
+S
+Hall Ticket No.  161022748094 Gender MALE
+F
+F
+F
+F
+F
+D
+A
+A
+Hall Ticket No.  161022748095 Gender MALE
+F
+F
+F
+D
+E
+C
+C
+A
+Hall Ticket No.  161022748096 Gender MALE
+F
+F
+E
+D
+A
+D
+B
+A
+Hall Ticket No.  161022748097 Gender MALE
+F
+F
+F
+D
+B
+E
+A
+B
+Hall Ticket No.  161022748098 Gender MALE
+F
+F
+F
+F
+C
+D
+D
+B
+Hall Ticket No.  161022748099 Gender MALE
+F
+F
+F
+F
+B
+E
+D
+A
+Hall Ticket No.  161022748100 Gender MALE
+F
+F
+F
+D
+D
+F
+C
+C
+Hall Ticket No.  161022748101 Gender MALE
+F
+F
+F
+F
+C
+D
+C
+B
+Hall Ticket No.  161022748102 Gender MALE
+F
+F
+F
+F
+E
+F
+D
+B
+Hall Ticket No.  161022748103 Gender MALE
+F
+F
+F
+D
+B
+D
+C
+B
+Hall Ticket No.  161022748104 Gender MALE
+F
+F
+F
+F
+E
+D
+D
+B
+Hall Ticket No.  161022748105 Gender MALE
+F
+F
+F
+D
+F
+F
+A
+B
+Hall Ticket No.  161022748106 Gender MALE
+F
+F
+F
+F
+D
+D
+D
+A
+Hall Ticket No.  161022748107 Gender MALE
+F
+F
+E
+F
+F
+D
+B
+A
+Hall Ticket No.  161022748108 Gender MALE
+D
+B
+F
+C
+B
+B
+S
+S
+Hall Ticket No.  161022748109 Gender MALE
+D
+A
+C
+A
+D
+C
+S
+S
+Hall Ticket No.  161022748110 Gender MALE
+F
+D
+C
+D
+C
+D
+S
+S
+Hall Ticket No.  161022748111 Gender MALE
+C
+D
+F
+C
+F
+E
+A
+S
+Hall Ticket No.  161022748112 Gender MALE
+D
+C
+F
+D
+C
+D
+A
+A
+Hall Ticket No.  161022748113 Gender MALE
+F
+F
+D
+C
+C
+C
+S
+A
+Hall Ticket No.  161022748114 Gender MALE
+F
+F
+D
+C
+C
+D
+S
+S
+Hall Ticket No.  161022748115 Gender MALE
+C
+D
+F
+C
+F
+D
+A
+A
+Hall Ticket No.  161022748116 Gender MALE
+b
+b
+b
+b
+b
+b
+b
+b
+Hall Ticket No.  161022748117 Gender MALE
+F
+F
+F
+C
+D
+D
+C
+A
+Hall Ticket No.  161022748118 Gender MALE
+F
+D
+D
+B
+F
+C
+S
+S
+Hall Ticket No.  161022748119 Gender MALE
+F
+F
+F
+D
+F
+D
+D
+A
+Hall Ticket No.  161022748120 Gender MALE
+F
+F
+D
+C
+D
+D
+S
+S
+Hall Ticket No.  161022748122 Gender MALE
+F
+F
+D
+C
+D
+D
+B
+A
+Hall Ticket No.  161022748123 Gender MALE
+F
+F
+E
+C
+F
+E
+C
+A
+Hall Ticket No.  161022748124 Gender MALE
+F
+F
+F
+F
+F
+F
+B
+S
+Hall Ticket No.  161022748125 Gender MALE
+F
+F
+F
+D
+F
+F
+A
+A
+Hall Ticket No.  161022748126 Gender MALE
+F
+F
+F
+D
+F
+F
+B
+A
+Hall Ticket No.  161022748127 Gender MALE
+F
+F
+F
+D
+F
+D
+D
+A
+Hall Ticket No.  161022748128 Gender MALE
+F
+F
+F
+F
+F
+D
+A
+A
+Hall Ticket No.  161022748129 Gender MALE
+F
+F
+F
+F
+F
+F
+D
+C
+Hall Ticket No.  161022748130 Gender MALE
+b
+F
+F
+b
+F
+F
+b
+b
+Hall Ticket No.  161022748131 Gender MALE
+F
+F
+F
+F
+F
+F
+C
+A
+Hall Ticket No.  161022748132 Gender MALE
+F
+F
+F
+D
+F
+D
+D
+B
+Hall Ticket No.  161022748133 Gender MALE
+F
+F
+F
+F
+F
+F
+A
+A

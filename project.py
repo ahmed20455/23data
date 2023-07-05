@@ -1,5 +1,12 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+import pandas as pd
+import openpyxl
+
+# Saving roll numbers
+
+RollNumber = 161022748001;
+NumberOfStudents = 134;
 
 # Set up the Selenium webdriver
 driver = webdriver.Chrome()  # Update with the appropriate webdriver
@@ -8,9 +15,9 @@ driver = webdriver.Chrome()  # Update with the appropriate webdriver
 driver.get('https://www.osmania.ac.in/res07/20230580.jsp')
 
 # Open the result file in append mode
-with open('result.txt', 'a') as file:
+with open('result.txt', 'w') as file:
     # Iterate over roll numbers
-    for roll_number in range(245322748001, 245322748128):
+    for roll_number in range(RollNumber, RollNumber + NumberOfStudents + 1):
         # Find the input field and enter the roll number
         input_field = driver.find_element(By.NAME, 'htno')
         input_field.clear()
@@ -37,8 +44,6 @@ with open('result.txt', 'a') as file:
 
 # Close the browser
 driver.quit()
-
-import pandas as pd
 
 # Specify the number of lines to skip after each range of rows
 lines_to_skip = 1
@@ -71,8 +76,6 @@ df = pd.DataFrame(data)
 df.to_excel('output.xlsx', index=False, header=False)
 
 
-import openpyxl
-
 # Load the Excel file
 workbook = openpyxl.load_workbook('output.xlsx')
 
@@ -84,8 +87,8 @@ roll_number = "Roll Numbers"  # Replace with the actual roll number
 sheet['A1'] = roll_number
 
 # Generate and write roll numbers in cells A1 to A60
-start_roll = 245322748001
-for i in range(127):
+start_roll = RollNumber
+for i in range(NumberOfStudents):
     roll_number = str(start_roll + i)
     cell = sheet.cell(row=i+2, column=1)
     cell.value = roll_number
@@ -115,8 +118,6 @@ sheet['J1'] = 'SUB FAILED'
 # Save the modified Excel file
 workbook.save('output.xlsx')
 
-import openpyxl
-
 # Load the Excel file
 workbook = openpyxl.load_workbook('output.xlsx')
 
@@ -124,7 +125,7 @@ workbook = openpyxl.load_workbook('output.xlsx')
 sheet = workbook['Sheet1']  # Replace 'Sheet1' with the actual sheet name
 
 # Iterate over the rows 2 to 61
-for row in range(2, 128):
+for row in range(2, NumberOfStudents + 1):
     count = 0
 
     # Iterate over the columns B to I
@@ -150,13 +151,13 @@ sheet = workbook['Sheet1']  # Replace 'Sheet1' with the actual sheet name
 column_j_sum = 0
 
 # Iterate over the cells in column J from row 2 to row 61
-for row in range(2, 128):
+for row in range(2, NumberOfStudents + 1):
     cell_value = sheet.cell(row=row, column=10).value
     if cell_value and isinstance(cell_value, int):
         column_j_sum += cell_value
 
 # Store the sum in cell J62
-sheet['J128'] = column_j_sum
+sheet['J62'] = column_j_sum
 
 # Save the modified Excel file
 workbook.save('output.xlsx')
@@ -174,13 +175,13 @@ for column in range(2, 10):
     count = 0
 
     # Iterate over the cells in the column from row 2 to row 61
-    for row in range(2, 128):
+    for row in range(2, NumberOfStudents + 1):
         cell_value = sheet.cell(row=row, column=column).value
         if cell_value and isinstance(cell_value, str) and 'F' in cell_value:
             count += 1
 
     # Store the count in the 62nd cell of the respective column
-    sheet.cell(row=128, column=column).value = count
+    sheet.cell(row=NumberOfStudents + 1, column=column).value = count
 
 # Save the modified Excel file
 workbook.save('output.xlsx')
